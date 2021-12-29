@@ -1,8 +1,8 @@
 # Huet JB alias AureProd
 
-Je suis un développeur de métier spécialisé web full-stack,
-actuellement en alternance chez [PureControl](https://www.purecontrol.com/)
+I am a french developer from Rennes, 
+I specialize in full-stack web and I am currently in work-study at [PureControl](https://www.purecontrol.com/)
 
-Mais je suis aussi développeur de mod de jeux sur [Minecraft](https://www.minecraft.net/fr-fr) avec des mods et des plugins ou sur [Arma 3](https://store.steampowered.com/app/107410/Arma_3/) avec la team [MOTA](https://discord.gg/Mp7jyD2MGR)
+But I'm also a game modder on [Minecraft](https://www.minecraft.net/fr-fr) and on [Arma 3](https://store.steampowered.com/app/107410/Arma_3/) with the [MOTA](https://discord.gg/Mp7jyD2MGR) team
 
-Avec la [MOTA](https://discord.gg/Mp7jyD2MGR) nous avons crée les serveurs Tactical Airsoft et Stargate Impact
+with the [MOTA](https://discord.gg/Mp7jyD2MGR) we created the Tactical Airsoft and Stargate Impact servers
