@@ -1,4 +1,4 @@
-# Huet JB (a.k.a AureProd)
+# Huet JB (AureProd)
 
 I am a french developer from Rennes, 
 I specialize in full-stack web and I am currently in work-study at [PureControl](https://www.purecontrol.com/)
